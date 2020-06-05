@@ -1,15 +1,12 @@
-# traffic-light
 
-## Project setup
+
+## 1
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 2
 ```
 npm start
 
-or
-
-npm run serve
 ```
